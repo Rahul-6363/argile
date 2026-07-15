@@ -1,0 +1,24 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @media (prefers-color-scheme: light) {
+      .background { fill: #B5563C; }
+      .foreground { fill: #FBF3EE; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .background { fill: #FBF3EE; }
+      .foreground { fill: #9A4530; }
+    }
+  </style>
+  <g clip-path="url(#clip0_argile)">
+    <rect class="background" width="180" height="180" rx="37" />
+    <g style="transform: scale(95%); transform-origin: center">
+      <path class="foreground"
+        d="M90 32L138 148H119.5L109.2 122H70.8L60.5 148H42L90 32ZM90 66.4L77 98H103L90 66.4Z" />
+    </g>
+  </g>
+  <defs>
+    <clipPath id="clip0_argile">
+      <rect width="180" height="180" fill="white" />
+    </clipPath>
+  </defs>
+</svg>
